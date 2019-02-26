@@ -56,13 +56,13 @@
 		C054628D2225B4E300483E0D /* Todoey */ = {
 			isa = PBXGroup;
 			children = (
+				C054629A2225B4E600483E0D /* Info.plist */,
+				C05462952225B4E600483E0D /* Assets.xcassets */,
+				C05462972225B4E600483E0D /* LaunchScreen.storyboard */,
+				C054628E2225B4E300483E0D /* AppDelegate.swift */,
 				C05462A22225DB2700483E0D /* Views */,
 				C05462A12225DB1F00483E0D /* Controllers */,
 				C05462A02225DB1500483E0D /* Model */,
-				C054628E2225B4E300483E0D /* AppDelegate.swift */,
-				C05462952225B4E600483E0D /* Assets.xcassets */,
-				C05462972225B4E600483E0D /* LaunchScreen.storyboard */,
-				C054629A2225B4E600483E0D /* Info.plist */,
 			);
 			path = Todoey;
 			sourceTree = "<group>";
